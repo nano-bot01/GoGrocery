@@ -1,5 +1,6 @@
 # 🛒 GoGrocery - End-to-End Grocery Management System
-![Uploading banner_gogrocery.jpg…]()
+
+<img width="20736" height="10368" alt="banner_gogrocery" src="https://github.com/user-attachments/assets/28ac79ee-d473-42ec-9c30-3d7a605bb3e0" />
 
 ## 📖 Overview
 GoGrocery is a comprehensive, end-to-end Grocery Management System built entirely on the Salesforce platform. It is designed to streamline day-to-day retail operations, from user hierarchy management to live inventory tracking and seamless order processing. The system leverages Salesforce's powerful backend automation and modern front-end frameworks to deliver a robust, scalable, and user-friendly solution for grocery retail management.
